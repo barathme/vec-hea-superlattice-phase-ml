@@ -1,0 +1,4 @@
+SYSTEM = HEA Superlattice
+ENCUT = 500
+ISMEAR = 1
+SIGMA = 0.2
